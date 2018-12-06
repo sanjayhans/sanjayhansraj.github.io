@@ -1,3 +1,3 @@
-# praveen-mulchandani.github.io
+# sanjayhansraj.github.io
 Personal Site
-https://praveen-mulchandani.github.io/
+https://sanjayhansraj.github.io/
